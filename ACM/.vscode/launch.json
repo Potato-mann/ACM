@@ -9,7 +9,7 @@
             "type": "cppdbg",
             "request": "launch",
             // "program": "${fileDirname}/${fileBasenameNoExtension}",
-            "program": "/home/potatp/Desktop/ACM/.exe/${fileBasenameNoExtension}",
+            "program": "/home/potatp/ACM/ACM/.exe/${fileBasenameNoExtension}",
             "args": [],
             "stopAtEntry": false,
             "cwd": "${workspaceFolder}",
