@@ -1,0 +1,23 @@
+{
+    "files.associations": {
+        "unordered_map": "cpp",
+        "map": "cpp",
+        "numeric": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "ranges": "cpp",
+        "vector": "cpp",
+        "memory": "cpp",
+        "optional": "cpp",
+        "string": "cpp",
+        "system_error": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "initializer_list": "cpp",
+        "cctype": "cpp",
+        "random": "cpp",
+        "limits": "cpp",
+        "algorithm": "cpp",
+        "iostream": "cpp"
+    }
+}
